@@ -1,0 +1,8 @@
+{
+  "name": "db",
+  "connector": "mongodb",
+  "url": "mongodb://localhost:27017/todo4",
+  "host": "localhost",
+  "port": 27017,
+  "database": "todo4"
+}
